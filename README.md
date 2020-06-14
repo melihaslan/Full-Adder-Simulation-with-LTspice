@@ -1,3 +1,4 @@
 # Full-Adder-Simulation-with-LTspice
 
-Different designs are in different branches.
+XOR/XNOR and full adder circuits for low voltage, low-power applications
+(Hanho Lee, Gerald E. Sobelman)
